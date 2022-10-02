@@ -771,3 +771,7 @@ exports.resolveObject = urlResolveObject;
 exports.format = urlFormat;
 
 exports.Url = Url;
+
+exports.pathToFileURL = function() {
+  
+}

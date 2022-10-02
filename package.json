@@ -1,8 +1,8 @@
 {
-  "name": "url",
+  "name": "browserify-url",
   "description": "The core `url` packaged standalone for use with Browserify.",
-  "version": "0.11.0",
-  "author": "defunctzombie",
+  "version": "0.0.1",
+  "author": "darekf77",
   "dependencies": {
     "punycode": "^1.4.1",
     "querystring": "0.2.0"
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/defunctzombie/node-url.git"
+    "url": "https://github.com/darekf77/browserify-url.git"
   },
   "license": "MIT"
 }
